@@ -8,7 +8,7 @@
 * Structuring Test files
 
 
-Checkout The [Elaboration]("/note_pages/elaboration.md")
+Checkout The [Elaboration]("note_pages/elaboration.md")
 
 ## References
 
