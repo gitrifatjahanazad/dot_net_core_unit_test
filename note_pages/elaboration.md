@@ -21,7 +21,7 @@
 * [Trait("Category","categoryname")]
 * [Trait("Priority","1")] 
 
-#MSUnit attributes
+# MSUnit attributes
 * [TestClass]
 * [TestMethod]
 * [DataTestMethod]
